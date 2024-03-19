@@ -1,0 +1,11 @@
+{
+  "name": "demo-azure-function-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tomnyson/demo-azure-function-app.git",
+  "author": "tomnyson <tabletkindfire@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
+}
