@@ -1,7 +1,7 @@
 const { QueueServiceClient } = require("@azure/storage-queue");
 
 // Retrieve the connection string
-const connectionString = "DefaultEndpointsProtocol=https;AccountName=demostoragetomnyson;AccountKey=rfC6c0t6mhFNI/IW/LuP6giZ7Pit2CkqW1zMzGceEj2p+B8O6SAWhOOn9ARoIyyrRzmYnwqQ8lwy+AStKzNkhw==;EndpointSuffix=core.windows.net";
+const connectionString = "#";
 
 // Instantiate a QueueServiceClient
 const queueServiceClient = QueueServiceClient.fromConnectionString(connectionString);
